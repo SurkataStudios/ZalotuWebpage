@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+nav{
+    height: 7.5vh;
+    background-color: #da12bf77;
+    text-align: center;
+    line-height: 7.5vh;
+}
+
+#Logo{
+    height: 7.5vh;
+    width: 10vw;
+}
+
+#Links{
+    height: 7.5vh;
+    width: 90vw;
+}
+
+#NavLogo{
+    height: 5vh;
+    width: 2.5vw;
+}
+
+a{
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    padding-right: 10px;
+}
