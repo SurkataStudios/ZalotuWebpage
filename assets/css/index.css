@@ -5,8 +5,7 @@
 }
 
 body{
-    color: #ffffff;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 nav{
@@ -36,4 +35,28 @@ a{
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
     padding-right: 10px;
+}
+
+header{
+    height: 40vh;
+    background-color: #f00;
+}
+
+h1{
+    font-size: 500%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    padding-left: 2.5%;
+    padding-top: 3%;
+}
+
+.Slogan{
+    display: block;
+    font-size: 150%;
+    padding-left: 2.5%;
+}
+
+#About{
+    background-color: #00ff00;
+    height: 52.5vh;
 }
